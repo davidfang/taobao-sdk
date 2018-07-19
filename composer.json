@@ -1,0 +1,15 @@
+{
+    "name": "zg/taobao-sdk",
+    "description": "taobao top sdk",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "minimum-stability": "dev",
+    
+    "autoload": {
+        "files": [
+            "TopSdk.php"
+        ]
+    }
+}
